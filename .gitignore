@@ -1,4 +1,5 @@
 venv
 backup
+.DS_Store
 *.csv
 *.pyc

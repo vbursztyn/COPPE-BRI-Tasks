@@ -1,2 +1,3 @@
+nltk==3.0.2
 regex==2015.3.18
 untangle==1.1.0
