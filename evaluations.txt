@@ -1,0 +1,87 @@
+NOSTEMMER:
+
+Precision for size = 1 is: 0.12
+Precision for size = 2 is: 0.2
+Precision for size = 3 is: 0.23
+Precision for size = 4 is: 0.2125
+Precision for size = 5 is: 0.196
+Precision for size = 6 is: 0.205
+Precision for size = 7 is: 0.197142857143
+Precision for size = 8 is: 0.18125
+Precision for size = 9 is: 0.176666666667
+Precision for size = 10 is: 0.171
+Precision for size = 11 is: 0.168181818182
+
+Recall for size = 1 is: 0.0381881244545
+Recall for size = 2 is: 0.0595965049947
+Recall for size = 3 is: 0.0729481174948
+Recall for size = 4 is: 0.0860142487544
+Recall for size = 5 is: 0.0919989539652
+Recall for size = 6 is: 0.10538368218
+Recall for size = 7 is: 0.111250933615
+Recall for size = 8 is: 0.114053663378
+Recall for size = 9 is: 0.118549762297
+Recall for size = 10 is: 0.124613613664
+Recall for size = 11 is: 0.128358940052
+
+F1 for size = 1 is: 0.0579382927807
+F1 for size = 2 is: 0.091829441226
+F1 for size = 3 is: 0.110765283261
+F1 for size = 4 is: 0.122460002741
+F1 for size = 5 is: 0.125221253264
+F1 for size = 6 is: 0.13920612511
+F1 for size = 7 is: 0.142235852796
+F1 for size = 8 is: 0.140006569853
+F1 for size = 9 is: 0.141887708707
+F1 for size = 10 is: 0.144167433106
+F1 for size = 11 is: 0.145596443783
+
+Precision@10 is: 0.171
+
+MAP is: 0.187067394726
+
+Mean NCG is: 0.00026313368958
+
+STEMMER:
+
+Precision for size = 1 is: 0.12
+Precision for size = 2 is: 0.21
+Precision for size = 3 is: 0.23
+Precision for size = 4 is: 0.2025
+Precision for size = 5 is: 0.182
+Precision for size = 6 is: 0.196666666667
+Precision for size = 7 is: 0.178571428571
+Precision for size = 8 is: 0.1675
+Precision for size = 9 is: 0.165555555556
+Precision for size = 10 is: 0.164
+Precision for size = 11 is: 0.159090909091
+
+Recall for size = 1 is: 0.0396878941015
+Recall for size = 2 is: 0.0574649773409
+Recall for size = 3 is: 0.0705701045817
+Recall for size = 4 is: 0.0841033928789
+Recall for size = 5 is: 0.0892927069169
+Recall for size = 6 is: 0.0981502293772
+Recall for size = 7 is: 0.10274104565
+Recall for size = 8 is: 0.112248628402
+Recall for size = 9 is: 0.116892223916
+Recall for size = 10 is: 0.124558673569
+Recall for size = 11 is: 0.126661744684
+
+F1 for size = 1 is: 0.0596481946108
+F1 for size = 2 is: 0.090237199364
+F1 for size = 3 is: 0.108002251763
+F1 for size = 4 is: 0.11884672325
+F1 for size = 5 is: 0.119806188995
+F1 for size = 6 is: 0.130948250953
+F1 for size = 7 is: 0.130435846084
+F1 for size = 8 is: 0.134418140777
+F1 for size = 9 is: 0.137031752253
+F1 for size = 10 is: 0.14158383952
+F1 for size = 11 is: 0.141036185265
+
+Precision@10 is: 0.164
+
+MAP is: 0.17962586908
+
+Mean NCG is: 0.00026313368958
