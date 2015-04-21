@@ -3,11 +3,11 @@ Author: Victor S. Bursztyn (vbursztyn@cos.ufrj.br | vsb@poli.ufrj.br | vbursztyn
 
 #2. Requirements:
 
-I. To have Python's Virtualenv installed. In case it is not, you need to comment line 4 (". venv/bin/activate") of BATCH_RUN.sh in order to perform it. Also, all required libs shall be installed alternatively (refer to requirement #3).
+I. To have Python's Virtualenv installed. In case it is not, you need to comment line 4 (". venv/bin/activate") of BATCH_RUN.sh in order to perform it. Also, all required libs shall be installed alternatively (refer to requirement III).
 
 II. To create a standard Virtualenv called "venv" at this location. Once Virtualenv is installed, you can do it by simply calling in command line, from this project's folder: "virtualenv venv".
 
-III. To install all required libs. Right after requirement #2, enter in command line: ". venv/bin/activate". Then install all dependencies by calling: "pip install -r requirements.txt". Make sure to be connected to the internet, and that it finishes successfully.
+III. To install all required libs. Right after requirement II, enter in command line: ". venv/bin/activate". Then install all dependencies by calling: "pip install -r requirements.txt". Make sure to be connected to the internet, and that it finishes successfully.
 
 #3. Execution possibilities:
 
