@@ -40,7 +40,44 @@ Precision@10 is: 0.171
 
 MAP is: 0.187067394726
 
-Mean NCG is: 0.00026313368958
+(For relevancy=[0.0,3.0])
+DCG for p = 1 is: 0.55303030303
+DCG for p = 2 is: 1.04166666667
+DCG for p = 3 is: 1.78349791868
+DCG for p = 4 is: 3.47667973686
+DCG for p = 5 is: 6.92828540219
+DCG for p = 6 is: 13.9047842055
+DCG for p = 7 is: 27.7581062546
+DCG for p = 8 is: 55.4750908915
+DCG for p = 9 is: 110.973718858
+DCG for p = 10 is: 221.921086336
+DCG for p = 11 is: 443.861934159
+
+(For relevancy=[0.0,1.0])
+DCG for p = 1 is: 0.184343434343
+DCG for p = 2 is: 0.347222222222
+DCG for p = 3 is: 0.594499306227
+DCG for p = 4 is: 1.15889324562
+DCG for p = 5 is: 2.3094284674
+DCG for p = 6 is: 4.63492806849
+DCG for p = 7 is: 9.25270208487
+DCG for p = 8 is: 18.4916969638
+DCG for p = 9 is: 36.9912396195
+DCG for p = 10 is: 73.9736954452
+DCG for p = 11 is: 147.953978053
+
+(For relevancy=[0.0,1.0])
+NDCG for p = 1 is: 0.376288659794
+NDCG for p = 2 is: 0.468483816014
+NDCG for p = 3 is: 0.45689809004
+NDCG for p = 4 is: 0.454035886339
+NDCG for p = 5 is: 0.453904798203
+NDCG for p = 6 is: 0.455520869736
+NDCG for p = 7 is: 0.454732492863
+NDCG for p = 8 is: 0.454395666288
+NDCG for p = 9 is: 0.45449206221
+NDCG for p = 10 is: 0.454438101264
+NDCG for p = 11 is: 0.454458334522
 
 STEMMER:
 
@@ -84,4 +121,41 @@ Precision@10 is: 0.164
 
 MAP is: 0.17962586908
 
-Mean NCG is: 0.00026313368958
+(For relevancy=[0.0,3.0])
+DCG for p = 1 is: 0.606060606061
+DCG for p = 2 is: 0.943181818182
+DCG for p = 3 is: 1.72848383151
+DCG for p = 4 is: 3.35727171029
+DCG for p = 5 is: 6.6937265876
+DCG for p = 6 is: 13.4312991616
+DCG for p = 7 is: 26.7897076475
+DCG for p = 8 is: 53.617913181
+DCG for p = 9 is: 107.211857424
+DCG for p = 10 is: 214.411429392
+DCG for p = 11 is: 428.807355498
+
+(For relevancy=[0.0,1.0])
+DCG for p = 1 is: 0.20202020202
+DCG for p = 2 is: 0.314393939394
+DCG for p = 3 is: 0.576161277169
+DCG for p = 4 is: 1.1190905701
+DCG for p = 5 is: 2.23124219587
+DCG for p = 6 is: 4.47709972054
+DCG for p = 7 is: 8.92990254918
+DCG for p = 8 is: 17.872637727
+DCG for p = 9 is: 35.7372858081
+DCG for p = 10 is: 71.4704764639
+DCG for p = 11 is: 142.935785166
+
+(For relevancy=[0.0,1.0])
+NDCG for p = 1 is: 0.454545454545
+NDCG for p = 2 is: 0.464552238806
+NDCG for p = 3 is: 0.492191831442
+NDCG for p = 4 is: 0.485889566434
+NDCG for p = 5 is: 0.485179163107
+NDCG for p = 6 is: 0.486840410647
+NDCG for p = 7 is: 0.485583865504
+NDCG for p = 8 is: 0.485932767264
+NDCG for p = 9 is: 0.485824153448
+NDCG for p = 10 is: 0.48579631804
+NDCG for p = 11 is: 0.485778754986
